@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+.vscode/
+ecommerce/.vscode/
+ecommerce/src/test
+ecommerce/src/main/java/com/example/ecommerce/controller
+ecommerce/src/main/java/com/example/ecommerce/dto
+ecommerce/src/main/java/com/example/ecommerce/repo
+ecommerce/src/main/java/com/example/ecommerce/service
