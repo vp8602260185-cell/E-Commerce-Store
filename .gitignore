@@ -30,4 +30,4 @@ ecommerce/src/test
 ecommerce/src/main/java/com/example/ecommerce/controller
 # ecommerce/src/main/java/com/example/ecommerce/dto
 # ecommerce/src/main/java/com/example/ecommerce/repo
-ecommerce/src/main/java/com/example/ecommerce/service
+# ecommerce/src/main/java/com/example/ecommerce/service
